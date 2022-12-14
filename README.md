@@ -1,4 +1,4 @@
-# Illuin_Test
+# Information-retrievial
 Retrieving the best context in a set to answer to a given question
 
 pour prédire le contexte lié à une question, il faut exécuter le script predict_question.py avec en argument le dataset (--dataset "train_set" pour le train set de SQUAD et --dataset "val_set" pour le validation test de SQUAD). rajouter par la suite la question (--question "question_text")
